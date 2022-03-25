@@ -6,6 +6,7 @@ Swift 공식 문서를 읽으면서,
 - https://jusung.gitbook.io/the-swift-language-guide/
 
 [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 관련 주제를 공부하는 스터디
+[참고 스터디](https://github.com/ios-study-boost/iOSInterviewquestions)
 
 
 
