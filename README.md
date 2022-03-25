@@ -20,6 +20,8 @@ Swift 공식 문서를 읽으면서,
 - 제어 흐름 (Control Flow)
 - 함수 (Functions)
 
+<br>
+
 ### 1주차 (~0327)
 
 - 클로저 (Closures)
@@ -37,6 +39,7 @@ Swift 공식 문서를 읽으면서,
 
 [1주차 정리](https://github.com/ddosang/iOSInterviewQuestions/issues/1)
 
+<br>
 
 ### 2주차 (~0403)
 - 서브 스크립트 (Subscripts)
@@ -51,6 +54,7 @@ Swift 공식 문서를 읽으면서,
 
 [2주차 정리](https://github.com/ddosang/iOSInterviewQuestions/issues/2)
 
+<br>
 
 ### 3주차 (~0410)
 - 에러 처리 (Error Handling)
@@ -58,6 +62,7 @@ Swift 공식 문서를 읽으면서,
 - 타입 캐스팅 (Type Casting)
 - 중첩된 타입 (Nested Types)
 
+<br>
 
 ### 4주차 (~0417)
 - 확장 (Extensions)
@@ -69,6 +74,7 @@ Swift 공식 문서를 읽으면서,
   - Generic에 대해 설명하시오.
 - 불투명한 타입 (Opaque Types)
 
+<br>
 
 ### 5주차 (~0423)
 - 자동 참조 카운팅 (Automatic Reference Counting)
@@ -77,6 +83,7 @@ Swift 공식 문서를 읽으면서,
   - 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
 - 고급 연산자 (Advanced Operators)
 
+<br>
 
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - AnyObject에 대해 설명하시오.
