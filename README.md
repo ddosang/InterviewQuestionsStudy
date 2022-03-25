@@ -35,7 +35,7 @@ Swift 공식 문서를 읽으면서,
   - class 메서드와 static 메서드의 차이점을 설명하시오.
   - mutating 키워드에 대해 설명하시오.
 
-[1주차 정리]()
+[1주차 정리](https://github.com/ddosang/iOSInterviewQuestions/issues/1)
 
 
 ### 2주차 (~0403)
