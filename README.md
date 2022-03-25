@@ -1,7 +1,12 @@
 # iOSInterviewQuestions
 
-Swift 공식 문서 번역본 ( https://bbiguduk.gitbook.io/swift/   /   https://jusung.gitbook.io/the-swift-language-guide/ ) 을 읽으면서,  
-재성님의 iOS 면접 질문 모음 (https://github.com/JeaSungLEE/iOSInterviewquestions) 관련 주제를 공부하는 스터디
+Swift 공식 문서를 읽으면서,
+- https://www.swift.org
+- https://bbiguduk.gitbook.io/swift/ 
+- https://jusung.gitbook.io/the-swift-language-guide/
+
+[JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 관련 주제를 공부하는 스터디
+
 
 
 ## Swift
@@ -33,10 +38,14 @@ Swift 공식 문서 번역본 ( https://bbiguduk.gitbook.io/swift/   /   https:/
 
 ### 2주차 (~0403)
 - 서브 스크립트 (Subscripts)
+  - Subscripts에 대해 설명하시오.
+  - String은 왜 subscript로 접근이 안되는지 설명하시오.
 - 상속 (Inheritance)
 - 초기화 (Initialization)
+  - Convinience init에 대해 설명하시오.
 - 초기화 해제 (Deinitialization)
 - 옵셔널 체이닝 (Optional Chaining)
+  - Optional 이란 무엇인지 설명하시오.
 
 
 ### 3주차 (~0410)
@@ -48,8 +57,12 @@ Swift 공식 문서 번역본 ( https://bbiguduk.gitbook.io/swift/   /   https:/
 
 ### 4주차 (~0417)
 - 확장 (Extensions)
+  - Extension에 대해 설명하시오.
+  - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 - 프로토콜 (Protocols)
+  - 프로토콜이란 무엇인지 설명하시오.
 - 제너릭 (Generics)
+  - Generic에 대해 설명하시오.
 - 불투명한 타입 (Opaque Types)
 
 
@@ -57,4 +70,22 @@ Swift 공식 문서 번역본 ( https://bbiguduk.gitbook.io/swift/   /   https:/
 - 자동 참조 카운팅 (Automatic Reference Counting)
 - 메모리 안전성 (Memory Safety)
 - 접근 제어 (Access Control)
+  - 접근 제어자의 종류엔 어떤게 있는지 설명하시오.
 - 고급 연산자 (Advanced Operators)
+
+
+Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
+AnyObject에 대해 설명하시오.
+KVO 동작 방식에 대해 설명하시오.
+Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
+Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
+Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
+MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
+Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
+Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
+defer란 무엇인지 설명하시오.
+defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
+some 키워드에 대해 설명하시오.
+Result타입에 대해 설명하시오.
+Codable에 대하여 설명하시오.
