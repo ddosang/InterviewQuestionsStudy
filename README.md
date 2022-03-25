@@ -35,6 +35,8 @@ Swift 공식 문서를 읽으면서,
   - class 메서드와 static 메서드의 차이점을 설명하시오.
   - mutating 키워드에 대해 설명하시오.
 
+[1주차 정리]()
+
 
 ### 2주차 (~0403)
 - 서브 스크립트 (Subscripts)
@@ -46,6 +48,8 @@ Swift 공식 문서를 읽으면서,
 - 초기화 해제 (Deinitialization)
 - 옵셔널 체이닝 (Optional Chaining)
   - Optional 이란 무엇인지 설명하시오.
+
+[2주차 정리]()
 
 
 ### 3주차 (~0410)
