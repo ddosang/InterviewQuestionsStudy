@@ -49,7 +49,7 @@ Swift 공식 문서를 읽으면서,
 - 옵셔널 체이닝 (Optional Chaining)
   - Optional 이란 무엇인지 설명하시오.
 
-[2주차 정리]()
+[2주차 정리](https://github.com/ddosang/iOSInterviewQuestions/issues/2)
 
 
 ### 3주차 (~0410)
