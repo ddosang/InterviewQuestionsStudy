@@ -78,18 +78,18 @@ Swift 공식 문서를 읽으면서,
 - 고급 연산자 (Advanced Operators)
 
 
-Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
-AnyObject에 대해 설명하시오.
-KVO 동작 방식에 대해 설명하시오.
-Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
-Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
-Delegates와 Notification 방식의 차이점에 대해 설명하시오.
-멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
-MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
-Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
-Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
-defer란 무엇인지 설명하시오.
-defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
-some 키워드에 대해 설명하시오.
-Result타입에 대해 설명하시오.
-Codable에 대하여 설명하시오.
+- Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
+- AnyObject에 대해 설명하시오.
+- KVO 동작 방식에 대해 설명하시오.
+- Delegate 패턴을 활용하는 경우를 예를 들어 설명하시오.
+- Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
+- Delegates와 Notification 방식의 차이점에 대해 설명하시오.
+- 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
+- MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
+- Protocol Oriented Programming과 Object Oriented Programming의 차이점을 설명하시오.
+- Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
+- defer란 무엇인지 설명하시오.
+- defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
+- some 키워드에 대해 설명하시오.
+- Result타입에 대해 설명하시오.
+- Codable에 대하여 설명하시오.
