@@ -66,6 +66,8 @@ Swift 공식 문서를 읽으면서,
   - Extension에 대해 설명하시오.
   - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 
+[3주차 정리](https://github.com/ddosang/iOSInterviewQuestions/issues/3)
+
 <br>
 
 ### 4주차 (~0417)
