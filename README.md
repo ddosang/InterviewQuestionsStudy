@@ -62,13 +62,13 @@ Swift 공식 문서를 읽으면서,
 - 동시성 (Concurrency)
 - 타입 캐스팅 (Type Casting)
 - 중첩된 타입 (Nested Types)
+- 확장 (Extensions)
+  - Extension에 대해 설명하시오.
+  - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 
 <br>
 
 ### 4주차 (~0417)
-- 확장 (Extensions)
-  - Extension에 대해 설명하시오.
-  - Extension 내부에서 함수를 override할 수 있는지 설명하시오.
 - 프로토콜 (Protocols)
   - 프로토콜이란 무엇인지 설명하시오.
 - 제너릭 (Generics)
