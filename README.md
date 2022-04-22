@@ -85,6 +85,7 @@ Swift 공식 문서를 읽으면서,
 - 제너릭 (Generics)
   - Generic에 대해 설명하시오.
 - 불투명한 타입 (Opaque Types)
+  - some 키워드에 대해 설명하시오.
 
 [4주차 정리](https://github.com/ddosang/iOSInterviewQuestions/issues/4)
 
@@ -112,7 +113,6 @@ Swift 공식 문서를 읽으면서,
 - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
 - MVC 구조에 대해 블록 그림을 그리고, 각 역할과 흐름을 설명하시오.
-- some 키워드에 대해 설명하시오.
 - Result타입에 대해 설명하시오.
 
 
