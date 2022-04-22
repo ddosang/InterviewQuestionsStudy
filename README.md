@@ -1,6 +1,6 @@
 # iOSInterviewQuestions
 
-Swift 공식 문서를 읽으면서,
+1. Swift 공식 문서를 읽으면서, (1~5주차)
 - https://www.swift.org
 - https://bbiguduk.gitbook.io/swift/ 
 - https://jusung.gitbook.io/the-swift-language-guide/
@@ -9,8 +9,10 @@ Swift 공식 문서를 읽으면서,
 [참고 스터디](https://github.com/ios-study-boost/iOSInterviewquestions)
 
 
+2. 야곰 Swift Programming 책을 읽으면서 보완 (6~10주차)
 
-## Swift
+
+## Swift 공식문서 
 
 ### 0주차 (~0320)
 
@@ -58,7 +60,11 @@ Swift 공식 문서를 읽으면서,
 
 <br>
 
-### 3주차 (~0410)
+~0410 한 주 휴무..
+
+<br>
+
+### 3주차 (~0417)
 - 에러 처리 (Error Handling)
   - defer란 무엇인지 설명하시오.
   - defer가 호출되는 순서는 어떻게 되고, defer가 호출되지 않는 경우를 설명하시오.
@@ -73,7 +79,7 @@ Swift 공식 문서를 읽으면서,
 
 <br>
 
-### 4주차 (~0417)
+### 4주차 (~0424)
 - 프로토콜 (Protocols)
   - 프로토콜이란 무엇인지 설명하시오.
   - Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.
@@ -108,6 +114,11 @@ Swift 공식 문서를 읽으면서,
 <br>
 
 
+## 야곰 Swift Programming
+
+
+
+<br>
 
 - KVO 동작 방식에 대해 설명하시오.
 - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
