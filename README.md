@@ -9,8 +9,10 @@
 [참고 스터디](https://github.com/ios-study-boost/iOSInterviewquestions)
 
 
-2. 야곰 Swift Programming 책을 읽으면서 보완 (6~10주차)
+2. 야곰의 Swift Programming 책을 읽으면서 보완 (6~10주차)
 
+
+<br>
 
 ## Swift 공식문서 
 
