@@ -1,4 +1,6 @@
-# iOSInterviewQuestions
+# InterviewQuestionsStudy
+
+## Swift
 
 1. Swift 공식 문서를 읽으면서, (1~5주차)
 - https://www.swift.org
@@ -10,6 +12,25 @@
 
 
 2. 야곰의 Swift Programming 책을 읽으면서 보완 (6~10주차)
+
+<br>
+
+## iOS
+
+1. [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 에서 하나씩 답변하기.
+2. 질문 하루에 하나?
+
+
+<br>
+
+
+## CS
+
+1. 운영체제
+2. 네트워크
+3. DB
+
+강의 듣고 정리.
 
 
 <br>
