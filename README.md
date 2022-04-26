@@ -118,7 +118,7 @@
 
 <br>
 
-### 5주차 (~0423)
+### 5주차 (~0501)
 - 자동 참조 카운팅 (Automatic Reference Counting)
   - ARC란 무엇인지 설명하시오.
   - Retain Count 방식에 대해 설명하시오.
