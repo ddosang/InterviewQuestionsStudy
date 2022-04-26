@@ -15,10 +15,9 @@
 
 <br>
 
-## iOS / CS
+## iOS
 
-1. [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 에서 하루에 하나씩 찾아보고 답변 정리
-2. 운영체제 / 네트워크 / DB 강의 (일주일에 3~4시간 정도 분량)듣고, [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 에서 관련 주제 질문 정리.
+- [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 에서 일주일에 5 주제씩 찾아보고 답변 정리
 
 
 <br>
@@ -26,10 +25,8 @@
 
 ## CS
 
-
-
-강의 듣고 정리.
-
+- 운영체제 / 네트워크 / DB 강의 (일주일에 3~4시간 정도 분량)듣고, 
+- [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 에서 관련 주제 질문 정리.
 
 <br>
 
