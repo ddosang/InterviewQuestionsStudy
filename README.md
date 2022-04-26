@@ -28,7 +28,10 @@
 - 운영체제 / 네트워크 / DB 강의 (일주일에 3~4시간 정도 분량)듣고, 
 - [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 에서 관련 주제 질문 정리.
 
-<br>
+
+<br><br>
+
+# 세부 계획
 
 ## 1-1. Swift 공식문서 
 
