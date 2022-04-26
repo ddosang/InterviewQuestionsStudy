@@ -15,10 +15,10 @@
 
 <br>
 
-## iOS
+## iOS / CS
 
-1. [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 에서 하나씩 답변하기.
-2. 질문 하루에 하나?
+1. [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSInterviewquestions) 에서 하루에 하나씩 찾아보고 답변 정리
+2. 운영체제 / 네트워크 / DB 강의 (일주일에 3~4시간 정도 분량)듣고, [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner) 에서 관련 주제 질문 정리.
 
 
 <br>
@@ -26,16 +26,14 @@
 
 ## CS
 
-1. 운영체제
-2. 네트워크
-3. DB
+
 
 강의 듣고 정리.
 
 
 <br>
 
-## Swift 공식문서 
+## 1-1. Swift 공식문서 
 
 ### 0주차 (~0320)
 
@@ -137,7 +135,7 @@
 <br>
 
 
-## 야곰 Swift Programming
+## 1-2. 야곰 Swift Programming
 
 
 
@@ -152,9 +150,9 @@
 
 <hr>
 
-# 5주차 이후에 진행해보면 좋을 것들.
+# 2.  iOS 면접 질문 
 
-## iOS
+## 2. iOS
 
 - Bounds 와 Frame 의 차이점을 설명하시오.
 - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
