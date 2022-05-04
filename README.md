@@ -148,7 +148,7 @@
 7. 함수
 8. 옵셔널
 
-[6주차 정리]()
+[6주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/7)
 
 <br>
 
@@ -158,7 +158,7 @@
 11. 인스턴스 생성 및 소멸
 12. 접근제어
 
-[7주차 정리]()
+[7주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/8)
 
 <br>
 
@@ -169,7 +169,7 @@
 15. 맵, 필터, 리듀스
 16. 모나드
 
-[8주차 정리]()
+[8주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/9)
 
 <br>
 
@@ -178,17 +178,17 @@
 17. 서브스크립트
 18. 상속
 19. 타입캐스팅
+20. 프로토콜
 
-[9주차 정리]()
+[9주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/10)
 
 <br>
 
-20. 프로토콜
 21. 익스텐션
 22. 제네릭
 23. 프로토콜 지향 프로그래밍
 
-[10주차 정리]()
+[10주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/11)
 
 <br>
 
@@ -198,7 +198,7 @@
 25. 패턴
 26. where 절
 
-[10주차 정리]()
+[11주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/12)
 
 <br>
 
@@ -207,7 +207,7 @@
 30. 메모리 안전
 31. 불명확 타입
 
-[11주차 정리]()
+[12주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/13)
 
 
 <br>
