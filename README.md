@@ -149,8 +149,8 @@
 8. 옵셔널
 
 OS
-1. Introduction
-2. System Structure & Program Execution
+1. Introduction  
+2. System Structure & Program Execution  
 
 [6주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/7)
 
@@ -163,8 +163,8 @@ OS
 12. 접근제어
 
 OS
-3. Process
-4. Process Management
+3. Process  
+4. Process Management  
 
 iOS
 - KVO 동작 방식에 대해 설명하시오.
