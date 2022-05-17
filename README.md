@@ -148,7 +148,9 @@
 7. 함수
 8. 옵셔널
 
-OS - 1~2 강의 듣기
+OS
+1. Introduction
+2. System Structure & Program Execution
 
 [6주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/7)
 
@@ -160,8 +162,11 @@ OS - 1~2 강의 듣기
 11. 인스턴스 생성 및 소멸
 12. 접근제어
 
-OS - 3~4 강의 
+OS
+3. Process
+4. Process Management
 
+iOS
 - KVO 동작 방식에 대해 설명하시오.
 - Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.
 - 멀티 쓰레드로 동작하는 앱을 작성하고 싶을 때 고려할 수 있는 방식들을 설명하시오.
