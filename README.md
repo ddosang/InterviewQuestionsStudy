@@ -182,6 +182,15 @@ iOS
 15. 맵, 필터, 리듀스
 16. 모나드
 
+OS  
+5. CPU Scheduling   
+6. Process Synchronization    
+
+iOS
+- Bounds 와 Frame 의 차이점을 설명하시오.
+- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
+- 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
+
 [8주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/9)
 
 <br>
@@ -193,6 +202,11 @@ iOS
 19. 타입캐스팅
 20. 프로토콜
 
+iOS
+- 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
+- App thinning에 대해서 설명하시오.
+- 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?
+
 [9주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/10)
 
 <br>
@@ -200,6 +214,11 @@ iOS
 21. 익스텐션
 22. 제네릭
 23. 프로토콜 지향 프로그래밍
+
+iOS
+- @Main에 대해서 설명하시오.
+- 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
+- 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
 
 [10주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/11)
 
@@ -211,6 +230,11 @@ iOS
 25. 패턴
 26. where 절
 
+iOS
+- 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
+- scene delegate에 대해 설명하시오.
+- UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
+
 [11주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/12)
 
 <br>
@@ -219,6 +243,11 @@ iOS
 29. 오류처리
 30. 메모리 안전
 31. 불명확 타입
+
+iOS
+- App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
+- NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
+- GCD API 동작 방식과 필요성에 대해 설명하시오.
 
 [12주차 정리](https://github.com/ddosang/InterviewQuestionsStudy/issues/13)
 
@@ -238,21 +267,7 @@ iOS
 
 <br>
 
-- Bounds 와 Frame 의 차이점을 설명하시오.
-- 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
-- 앱의 콘텐츠나 데이터 자체를 저장/보관하는 특별한 객체를 무엇이라고 하는가?
-- 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
-- App thinning에 대해서 설명하시오.
-- 앱이 시작할 때 main.c 에 있는 UIApplicationMain 함수에 의해서 생성되는 객체는 무엇인가?
-- @Main에 대해서 설명하시오.
-- 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있나요?
-- 상태 변화에 따라 다른 동작을 처리하기 위한 앱델리게이트 메서드들을 설명하시오.
-- 앱이 In-Active 상태가 되는 시나리오를 설명하시오.
-- scene delegate에 대해 설명하시오.
-- UIApplication 객체의 컨트롤러 역할은 어디에 구현해야 하는가?
-- App의 Not running, Inactive, Active, Background, Suspended에 대해 설명하시오.
-- NSOperationQueue 와 GCD Queue 의 차이점을 설명하시오.
-- GCD API 동작 방식과 필요성에 대해 설명하시오.
+
 - Global DispatchQueue 의 Qos 에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.
 - iOS 앱을 만들고, User Interface를 구성하는 데 필수적인 프레임워크 이름은 무엇인가?
 - Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.
