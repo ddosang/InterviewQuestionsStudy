@@ -203,8 +203,8 @@ iOS
 20. 프로토콜
 
 OS  
-5. Deadlock  
-6. Process Management  
+7. Deadlock  
+8. Process Management  
 
 iOS
 - 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
