@@ -202,6 +202,10 @@ iOS
 19. 타입캐스팅
 20. 프로토콜
 
+OS  
+5. Deadlock  
+6. Process Management  
+
 iOS
 - 앱 화면의 콘텐츠를 표시하는 로직과 관리를 담당하는 객체를 무엇이라고 하는가?
 - App thinning에 대해서 설명하시오.
